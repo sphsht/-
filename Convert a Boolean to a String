@@ -1,0 +1,10 @@
+public class BooleanToString {
+  public static String convert(boolean b){
+    if(true) { String str = new Boolean(b).toString();
+      return str;
+    } else { String str = new Boolean(b).toString();
+      return str;
+    }
+  }
+
+}
