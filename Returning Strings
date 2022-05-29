@@ -1,0 +1,8 @@
+public class Kata
+{
+  public static String greet(String name)
+  {
+   String s = "Hello, "+ name+ " how are you doing today?";
+    return s;
+  }
+}
