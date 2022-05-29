@@ -1,0 +1,7 @@
+class Kata {
+  public static String numberToString(int num) {
+    String s ="";
+    s=s+num;
+    return s;
+  }
+}
