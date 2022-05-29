@@ -1,0 +1,11 @@
+public class Triangular {
+    public static int triangular(int n) {
+      int a =0;
+      if (n > 0) {
+       a= n * (n+1) / 2;
+      } else {
+       a=0;
+      }
+      return a;
+    }
+}
